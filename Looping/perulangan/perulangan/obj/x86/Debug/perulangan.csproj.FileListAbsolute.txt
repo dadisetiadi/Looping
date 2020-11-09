@@ -1,0 +1,4 @@
+D:\ds\perulangan\perulangan\bin\Debug\perulangan.exe
+D:\ds\perulangan\perulangan\bin\Debug\perulangan.pdb
+D:\ds\perulangan\perulangan\obj\x86\Debug\perulangan.exe
+D:\ds\perulangan\perulangan\obj\x86\Debug\perulangan.pdb
